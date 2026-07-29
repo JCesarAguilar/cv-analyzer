@@ -4,7 +4,7 @@ Aplicación de IA que analiza currículums (CV) en PDF contra una descripción d
 
 🔗 **Demo en vivo:** [agrega aquí tu link de Streamlit Cloud]
 
-![CV Analyzer Demo](agrega-aqui-tu-screenshot.png)
+![CV Analyzer Demo](assets/demo.png)
 
 ---
 
